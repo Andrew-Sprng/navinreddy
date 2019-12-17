@@ -4,3 +4,4 @@ be careful while doing new things.
 dont be dumb while arguing.
 they may take that as advantage.
 thanks
+this is about first devops file
